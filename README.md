@@ -1,6 +1,6 @@
 # RealHbaseFakeStore
 
-![RealHbaseFakeStore](/screenshots/homepage.jpg?raw=true "RealHbaseFakeStore Homepage")
+![RealHbaseFakeStore](/screenshots/homepage.png?raw=true "RealHbaseFakeStore Homepage")
 
 ## Introduction
 RealHbaseFakeStore is a sample application that aims to demo some real world Hbase examples in a consumable manner around
